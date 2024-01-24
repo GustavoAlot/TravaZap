@@ -22,7 +22,7 @@ async function enviarScript(scriptText){
 	return lines.length;
 }
 
-enviarScript
+enviarScript(`
   Cidade de Deus
 Bráulio Mantovani
 Baseado no romance de Paulo Lins
